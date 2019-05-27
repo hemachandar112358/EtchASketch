@@ -1,0 +1,23 @@
+.container{
+    box-align: center;
+    display:grid; 
+    
+    width: 700px;
+    height: 700px;
+    border: 2px solid black;
+    margin: auto;
+    
+    
+
+}
+
+.boxes{
+    
+}
+.change{
+    background-color: black;
+}
+
+#buttonClick{
+
+}
