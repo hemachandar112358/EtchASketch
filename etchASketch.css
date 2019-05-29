@@ -1,23 +1,28 @@
 .container{
     box-align: center;
     display:grid; 
-    
-    width: 700px;
-    height: 700px;
+    width: 600px;
+    height: 600px;
     border: 2px solid black;
     margin: auto;
-    
-    
-
 }
 
-.boxes{
+.buttons #buttonClick,#randomColor{
+    background-color: #008CBA; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
     
 }
-.change{
-    background-color: black;
+
+h2{
+    color: hsla(0, 69%, 35%, 0.288);
 }
 
-#buttonClick{
-
+.fullBody{
+    background-color: beige;
 }
